@@ -1634,10 +1634,11 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #container {
-  padding: 5% 15%;
-  font-size: 22px;
+  padding: 5% 10%;
+  font-size: 20px;
   font-family: gotham;
   line-height: 55px; 
+  
 }
 
 
